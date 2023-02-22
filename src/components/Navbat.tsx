@@ -10,11 +10,11 @@ export default function Navbar() {
                 </div>
 
                 <div className="nav_search_bar flex gap-1 bg-white text-sm w-[24rem] h-10 rounded">
-                    <div className="w-[15%] px-2 py-1 bg-blue-400 rounded-l">
+                    <div className="w-[15%] px-2 py-1 bg-slate-400 rounded-l">
 
                     </div>
 
-                    <input type="text" name="searchBar" id="searchBar" placeholder="Search for book, textbook, document..." className="placeholder:text-xs w-[85%] h-[80%] caret-teal-600 border-0 focus:outline-none focus:ring-0 italic my-auto px-2"/>
+                    <input type="text" name="searchBar" id="searchBar" placeholder="Search for book, textbook, document..." className="placeholder:text-xs w-[85%] h-[80%] caret-yellow-600 border-0 focus:outline-none focus:ring-0 italic my-auto px-2"/>
                 </div>
 
                 <div className="sub_nav">
