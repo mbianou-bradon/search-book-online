@@ -11,7 +11,7 @@ export default function Home(){
                 <div >
                     <Navbar/>
                 </div>
-                <main className="mb-auto">
+                <main className="mb-auto mt-[5rem] flex">
                     <SideMenuBar/>
                 </main>
                 <Footer/>
