@@ -4,7 +4,7 @@ export default function Navbar() {
 
     return (
         <nav>
-            <div className="flex justify-between items-center px-[4rem] py-[1rem] border-b border-b-slate-900 fixed top-0 left-0 w-full">
+            <div className="flex justify-between items-center px-[4rem] py-[1rem] border-b border-b-slate-900 fixed top-0 left-0 w-full bg-white">
                 <div className="nav_brand text-2xl font-bold text-primary_dark">
                     <h2>Search<span className="text-red-500">Book</span></h2>
                 </div>
