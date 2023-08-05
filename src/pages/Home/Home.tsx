@@ -1,8 +1,4 @@
-import BookCard from "../components/BookCard";
-import Footer from "../components/Footer";
-import Navbar from "../components/Navbar";
-import SideMenuBar from "../components/SideMenuBar";
-
+import {BookCard, Navbar, SideMenuBar, Footer} from "../../components";
 
 export default function Home(){
 
